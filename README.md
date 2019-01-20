@@ -1,5 +1,5 @@
 # Arduino-Bike-Speedometer
-LCD Speedometer created for my bike
+LCD Speedometer created for my bike. Personal Project that I completed in August, 2017.
 
 ## Description
 Using an Arduino Nano, an LCD screen, Hall effect sensor, magnet, and crafty electrical tape and zipties - I created a little speedometer for my bike. Essentially, I just attached the magnet and Hall effect sensor to my tire, and every time my tire rotated, the magnet would pass by the Hall effect sensor.
