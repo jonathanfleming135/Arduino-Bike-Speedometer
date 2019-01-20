@@ -7,6 +7,6 @@ This would cause the Hall effect sensor to send a pulse to the Arduino, which wo
 
 Furthermore, knowing how frequently the tire rotated allowed me to calculate the current velocity of the bike. To get the most accurate readings, this was updated every two seconds.
 
-In the end, the final product looked like this and displayed Distance travelled (km), velocity (km/h), and time (h:mm).
+In the end, the final product displayed the Distance travelled (km), velocity (km/h), and time (h:mm).
 
 ![unnamed](https://user-images.githubusercontent.com/14278780/51433899-7d5cdf80-1c0a-11e9-8c58-6eea8e731214.jpg)
